@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdhiNarayan206
+- 👋 Hi, I’m @AdhiNarayan
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning btech cse(AI & ML)
 - 💞️ I’m looking to collaborate on PYTHON 
