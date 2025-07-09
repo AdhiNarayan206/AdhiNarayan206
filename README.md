@@ -13,7 +13,7 @@
 - 🌱 I’m learning: `Next.js`, `TailwindCSS`, `Three.js`
 - 💬 Ask me about: `React`, `UI/UX`, `Hackathons`, `Side Projects`
 - 🛠️ I build: Front-end experiences that feel smooth, seamless & a little magical ✨
-- 🌐 Portfolio: [adhiportfolio.dev](https://your-portfolio-link.com)
+- 🌐 Portfolio: 
 - 🧠 Fun fact: I love designing calm interfaces and turning ideas into apps
 
 ---
@@ -41,10 +41,9 @@
 
 ### 🌟 Featured Projects
 
-- 🎯 [Flocus – Focus Timer for Creators](https://github.com/yourusername/flocus)
+- 
 - 🌿 [Dozy – Calm Productivity + Addiction Remob](https://github.com/yourusername/dozy)
-- 🧩 [CodeSnaps – Mini Projects Hub](https://github.com/yourusername/codesnaps)
-
+- 
 ---
 
 ### 📬 Connect with Me
