@@ -49,9 +49,9 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/adhinarayan2006/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:adhinarayan206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
