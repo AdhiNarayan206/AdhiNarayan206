@@ -42,7 +42,7 @@
 ### 🌟 Featured Projects
 
 - 
-- 🌿 [Dozy – Calm Productivity + Addiction Remob](https://github.com/yourusername/dozy)
+- 🌿 [Dozy – Calm Productivity + Addiction Remob](https://github.com/AdhiNarayan206/VIBE-CODE)
 - 
 ---
 
