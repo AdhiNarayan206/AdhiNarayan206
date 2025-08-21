@@ -10,7 +10,7 @@
 🧑‍💻 **About Me**
 
 - 🌏 From India, passionate about building things for the web and beyond.
-- 💡 Interested in: `Machine Learning`, `Backend Development`, `Python`, `C++`, `Django`, `MySQL`, and more.
+- 💡 Interested in: `Machine Learning`, `Backend Development`, `Python`, `C`, `Django`, `MySQL`, and more.
 - 🌱 Just started learning backend development and exploring ML applications.
 - 💬 Ask me about: What I'm learning in `Python`, `C++`, `Machine Learning`, `Django`, `MySQL`, and backend engineering!
 - 🛠️ I build: Robust and efficient software systems—always learning and improving.
@@ -21,7 +21,7 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,django,git,github,vscode,flask,fastapi,flutter,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,django,git,github,vscode,flask,fastapi,flutter,scikit-learn" />
 </p>
 
 ---
