@@ -21,7 +21,7 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,django,git,github,vscode,flask,fastapi,flutter,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,django,git,github,vscode,flask,fastapi,flutter,scikit-learn,pandas" />
 </p>
 
 ---
