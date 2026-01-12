@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhi Narayan</h1>
-<h3 align="center"> Backend Developer | Machine Learning Explorer</h3>
+<h3 align="center"> Backend Developer | Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhinarayan206&label=Profile%20views&color=0e75b6&style=flat" alt="adhinarayan206" />
@@ -12,7 +12,6 @@
 - 🌏 From India, passionate about building things for the web and beyond.
 - 💡 Interested in: `Machine Learning`, `Backend Development`, `Python`, `C`, `Django`, `MySQL`, and more.
 - 🌱 Just started learning backend development and exploring ML applications.
-- 💬 Ask me about: What I'm learning in `Python`, `C++`, `Machine Learning`, `Django`, `MySQL`, and backend engineering!
 - 🛠️ I build: Robust and efficient software systems—always learning and improving.
 - 🧠 Fun fact: I love turning ideas into impactful software and experimenting with ML models.
 
