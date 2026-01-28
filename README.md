@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhi Narayan</h1>
-<h3 align="center"> Backend Developer | Machine Learning Engineer</h3>
+<h3 align="center">🎨 Frontend Vibecoder | Backend Developer | ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhinarayan206&label=Profile%20views&color=0e75b6&style=flat" alt="adhinarayan206" />
@@ -9,19 +9,29 @@
 
 🧑‍💻 **About Me**
 
-- 🌏 From India, passionate about building things for the web and beyond.
-- 💡 Interested in: `Machine Learning`, `Backend Development`, `Python`, `C`, `Django`, `MySQL`, and more.
-- 🌱 Just started learning backend development and exploring ML applications.
-- 🛠️ I build: Robust and efficient software systems—always learning and improving.
-- 🧠 Fun fact: I love turning ideas into impactful software and experimenting with ML models.
+- 🎨 **Frontend Vibecoder** – I build interfaces with style, flow, and good vibes ✨
+- 🌏 From India, passionate about crafting beautiful web experiences and intelligent systems
+- 💡 My Stack: `TypeScript`, `React`, `Next.js`, `Python`, `Django`, `FastAPI`, `Machine Learning`
+- 🎯 Philosophy: Vibe-driven development on the frontend, rock-solid logic on the backend
+- 🧠 I create: Stunning UIs that feel alive + Robust backend systems + Smart ML models
+- 🌱 Always learning, always vibing, always shipping
 
 ---
 
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,django,git,github,vscode,flask,fastapi,flutter,postgresql" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,python,c,django,fastapi,flask,mysql,postgresql,git,github,vscode,flutter" />
 </p>
+
+---
+
+### ✨ Currently Vibing On
+
+- 🔮 Building intelligent chip selection systems with **ChipOracle**
+- 🎨 Crafting smooth, aesthetic frontends with TypeScript + React
+- 🤖 Exploring ML applications in real-world products
+- 🚀 Leveling up my full-stack game
 
 ---
 
@@ -40,9 +50,9 @@
 
 ### 🌟 Featured Projects
 
-- 🔮 [ChipOracle](https://github.com/AdhiNarayan206/chipOracle)
-- 🟢 [ClearQ (TEAM-FALLBACKS)](https://github.com/AdhiNarayan206/TEAM-FALLBACKS)
-- 🌿 [Dozy – Calm Productivity + Addiction Remob](https://github.com/AdhiNarayan206/VIBE-CODE)
+- 🔮 **[ChipOracle](https://github.com/AdhiNarayan206/chipOracle)** – AI-powered chip selection platform | TypeScript + Next.js | [Live Demo](https://chip-oracle.vercel.app)
+- 🟢 **[ClearQ (TEAM-FALLBACKS)](https://github.com/AdhiNarayan206/TEAM-FALLBACKS)** – Smart queue management solution | JavaScript
+- 🌿 **[Dozy](https://github.com/AdhiNarayan206/VIBE-CODE)** – Calm productivity + addiction removal app | Built with good vibes ⭐
 
 ---
 
@@ -50,11 +60,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adhinarayan2006/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" /></a>
   <a href="mailto:adhinarayan206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-> “Code less. Create more. Stay curious.” 🌱
-
+> "Vibe first, code second, create magic always." 🌊✨
