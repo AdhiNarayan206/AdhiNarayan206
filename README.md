@@ -11,7 +11,7 @@
 
 - 🎨 **Frontend Vibecoder** – I build interfaces with style, flow, and good vibes ✨
 - 🌏 From India, passionate about crafting beautiful web experiences and intelligent systems
-- 💡 My Stack: `TypeScript`, `React`, `Next.js`, `Python`, `Django`, `FastAPI`, `Machine Learning`
+- 💡 My Stack:  `Python`, `Flask`, `FastAPI`, `Machine Learning`
 - 🎯 Philosophy: Vibe-driven development on the frontend, rock-solid logic on the backend
 - 🧠 I create: Stunning UIs that feel alive + Robust backend systems + Smart ML models
 - 🌱 Always learning, always vibing, always shipping
