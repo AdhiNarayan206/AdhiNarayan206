@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhi Narayan</h1>
-<h3 align="center">🎨 Frontend Vibecoder | Backend Developer | ML Engineer</h3>
+<h3 align="center"> Backend Developer | ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhinarayan206&label=Profile%20views&color=0e75b6&style=flat" alt="adhinarayan206" />
@@ -9,7 +9,7 @@
 
 🧑‍💻 **About Me**
 
-- 🎨 **Frontend Vibecoder** – I build interfaces with style, flow, and good vibes ✨
+
 - 🌏 From India, passionate about crafting beautiful web experiences and intelligent systems
 - 💡 My Stack:  `Python`, `Flask`, `FastAPI`, `Machine Learning`
 - 🎯 Philosophy: Vibe-driven development on the frontend, rock-solid logic on the backend
