@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adhi Narayan 👋</h1>
 
 <p align="center">
-  🎓 2nd year CS student &nbsp;|&nbsp; 🔧 Backend Developer &nbsp;|&nbsp; 🤖 ML Enthusiast
+   2nd year CS student &nbsp;|&nbsp;  Backend Developer &nbsp;|&nbsp;  ML Enthusiast
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ End-to-end ML system that predicts loan approvals and recommends real bank produ
 
 ---
 
-### 🩸 [Blood Bank Management System](https://github.com/AdhiNarayan206)
+### 🩸 [Blood Bank Management System](https://github.com/AdhiNarayan206/BLOOD_BANK_SYSTEM.git)
 Database-driven system for managing donors, blood inventory, health records, and hospital requests — built for a B.Tech Database Systems course.
 
 **My contributions:** Full backend REST API, MySQL schema design, donor/donation/inventory/request management, and analytics endpoints.
