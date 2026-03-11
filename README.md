@@ -24,7 +24,6 @@
 - Working with **relational databases** — schema design, queries, and optimization
 - Training and deploying **ML models** (classification, regression)
 - Integrating and fine-tuning **LLMs** for domain-specific tasks
-- Connecting backends to frontend interfaces cleanly
 
 ---
 
