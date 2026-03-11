@@ -67,7 +67,7 @@ A full-stack banking system with joint accounts, dual-authentication for high-va
 
 ---
 
-### 📊 [Loan Approval Predictor](https://github.com/AdhiNarayan206/loan_approval_predicter_and_recommendation_system)
+### 📊 [Loan Approval Predictor And Recommendation System](https://github.com/AdhiNarayan206/loan_approval_predicter_and_recommendation_system)
 End-to-end ML system that predicts loan approvals and recommends real bank products using a fine-tuned local LLM — deployed via Flask with a React frontend.
 
 **My contributions:** Data preprocessing, model training (Logistic Regression + Random Forest), Flask API, fine-tuning + integrating loanexplorerV2 via Ollama for personalized loan recommendations.
